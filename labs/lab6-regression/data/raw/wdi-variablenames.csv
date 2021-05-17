@@ -1,0 +1,60 @@
+Code,Indicator Name,New name
+SE.TER.CUAT.BA.FE.ZS,"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",educ_bach_f
+SE.SEC.CUAT.LO.FE.ZS,"Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)",educ_sec_f
+SE.SEC.CUAT.PO.FE.ZS,"Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)",educ_psec_f
+SE.PRM.CUAT.FE.ZS,"Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)",educ_prim_f
+SE.TER.CUAT.ST.FE.ZS,"Educational attainment, at least completed short-cycle tertiary, population 25+, female (%) (cumulative)",educ_tert_f
+SE.SEC.CUAT.UP.FE.ZS,"Educational attainment, at least completed upper secondary, population 25+, female (%) (cumulative)",educ_upsec_f
+SE.TER.CUAT.MS.FE.ZS,"Educational attainment, at least Master's or equivalent, population 25+, female (%) (cumulative)",educ_master_f
+SE.TER.CUAT.DO.FE.ZS,"Educational attainment, Doctoral or equivalent, population 25+, female (%) (cumulative)",educ_phd_f
+HD.HCI.EYRS,Expected Years of School,educ_expected_yrs
+HD.HCI.EYRS.FE,"Expected Years of School, Female",educ_expected_yrs_f
+SE.ADT.LITR.FE.ZS,"Literacy rate, adult female (% of females ages 15 and above)",literacy_fadult
+SE.ADT.1524.LT.FE.ZS,"Literacy rate, youth female (% of females ages 15-24)",literacy_fyouth
+SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",pop_f
+SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),pop_65up
+SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),pop_15to64
+SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),pop_0to14
+SP.DYN.LE60.FE.IN,"Life expectancy at age 60, female",life_60f
+SP.DYN.LE60.MA.IN,"Life expectancy at age 60, male",life_60m
+SP.DYN.LE00.FE.IN,"Life expectancy at birth, female (years)",life_birthf
+SP.DYN.LE00.MA.IN,"Life expectancy at birth, male (years)",life_birthm
+NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_percap
+SG.POP.MIGR.FE.ZS,Female migrants (% of international migrant stock),migrants_f
+fin24a.t.a.2,"Coming up with emergency funds: possible, female (% age 15+)",emergencyfunds_f
+fin7.t.a.2,"Credit card ownership, female  (% age 15+)",creditcard_f
+fin2.t.a.2,"Debit card ownership, female (% age 15+)",debitcard_f
+SL.EMP.TOTL.SP.FE.ZS,"Employment to population ratio, 15+, female (%) (modeled ILO estimate)",employtopop_f
+SL.ISV.IFRM.FE.ZS,"Informal employment, female (% of total non-agricultural employment)",empl_informal_f
+SL.TLF.ACTI.1524.FE.NE.ZS,"Labor force participation rate for ages 15-24, female (%) (national estimate)",laborpart_f
+SL.TLF.CACT.FE.NE.ZS,"Labor force participation rate, female (% of female population ages 15+) (national estimate)",laborpart_fyouth
+SL.TLF.ADVN.FE.ZS,"Labor force with advanced education, female (% of female working-age population with advanced education)",labor_highed_f
+SL.TLF.BASC.FE.ZS,"Labor force with basic education, female (% of female working-age population with basic education)",labor_basiced_f
+SL.TLF.INTM.FE.ZS,"Labor force with intermediate education, female (% of female working-age population with intermediate education)",labor_inted_f
+SL.TLF.TOTL.FE.ZS,"Labor force, female (% of total labor force)",laborpct_f
+fin25b.t.a.s.2,"Main source of emergency funds: family or friends, female  (% able to raise funds, age 15+)",emergencyfunds_personal_f
+fin25d.a.s.2,"Main source of emergency funds: loan from a bank, employer, or private lender, female (% able to raise funds, age 15+)",emergencyfunds_loan_f
+fin25c.a.s.2,"Main source of emergency funds: money from working, female (% able to raise funds, age 15+)",emergencyfunds_work_f
+fin25f.a.s.2,"Main source of emergency funds: other, female (% able to raise funds, age 15+)",emergencyfunds_other_f
+fin25e.a.s.2,"Main source of emergency funds: sale of assets, female  (% able to raise funds, age 15+)",emergencyfunds_sale_f
+fin25a.t.a.s.2,"Main source of emergency funds: savings, female (% able to raise funds, age 15+)",emergencyfunds_savings_f
+SG.TIM.UWRK.FE,"Proportion of time spent on unpaid domestic and care work, female (% of 24 hour day)",unpaid_domestic_f
+SL.TLF.CACT.FM.NE.ZS,Ratio of female to male labor force participation rate (%) (national estimate),laborpart_ratio_ftom
+SL.UEM.ADVN.FE.ZS,"Unemployment with advanced education, female (% of female labor force with advanced education)",unemp_highed_f
+SL.UEM.BASC.FE.ZS,"Unemployment with basic education, female (% of female labor force with basic education)",unemp_basiced_f
+SL.UEM.INTM.FE.ZS,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",unemp_inted_f
+SL.UEM.TOTL.FE.NE.ZS,"Unemployment, female (% of female labor force) (national estimate)",unemp_f
+SL.UEM.1524.FE.NE.ZS,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",unemp_fyouth
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",immunization_dpt
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",immunization_measles
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",mortality_maternal
+SP.DYN.IMRT.FE.IN,"Mortality rate, infant, female (per 1,000 live births)",mortality_infant_f
+SP.DYN.IMRT.MA.IN,"Mortality rate, infant, male (per 1,000 live births)",mortality_infant_m
+SH.DYN.MORT.FE,"Mortality rate, under-5, female (per 1,000 live births)",mortality_child_f
+SH.DYN.MORT.MA,"Mortality rate, under-5, male (per 1,000 live births)",mortality_child_m
+SH.STA.SUIC.FE.P5,"Suicide mortality rate, female (per 100,000 female population)",mortality_suicide_f
+SH.STA.SUIC.MA.P5,"Suicide mortality rate, male (per 100,000 male population)",mortality_suicide_m
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",fertility_total
+SP.ADO.TFRT,"Adolescent fertility rate (births per 1,000 women ages 15-19)",fertility_adolescent
+SP.DYN.CONU.ZS,"Contraceptive prevalence, any methods (% of women ages 15-49)",contraceptive_any
+SP.DYN.CONM.ZS,"Contraceptive prevalence, modern methods (% of women ages 15-49)",contraceptive_modern
